@@ -1,0 +1,30 @@
+<div class="topnav" id="myTopnav">
+  <a href="index.html" class="active"></a>
+  <a>Home</a>
+  <a>Campus Life</a>
+  <a>Admissions</a>
+  <a>Student Services</a>
+  <a>Counseling</a>
+  <a href= ""
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
+<div>
+  <p>You are here:  <a>Academics</a> > <a>Computer Software Engineering - CSET</a> > <a>Software Project II </a>> <a>CSET 180 - Software Project II</a> > <a>Coursework</a>
+<p>You do not have the necessary permissions to view this page.</p>
+
+<p>This page may require you to be logged in.</p>
+<footer>
+
+<div class="line"></div>
+
+<div class="topnav1">
+
+  <a>Privacy policy</a>
+  <span class="hellospan"></span>
+  <a>About us</a>
+  <span class="hellospan"></span>
+  <a>Contact us</a>
+  <span class="hellospan"></span>
+  <a>Campus directory</a>
+  </div>
+</footer>
